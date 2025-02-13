@@ -5,7 +5,7 @@ body{
 }
 
 header{
-    background-color: rgba(12, 129, 133, 0.76);
+    background-color: rgba(15, 84, 129, 0.76);
     padding: 20px;
     text-align: center;
 }
@@ -24,9 +24,16 @@ section{
 }
 
 #comprar{
-    background-color: #503fe6;
+    background-color: #633fe6;
     color: white;
     padding: 10px 20px;
     border: none;
     cursor: pointer;
+}
+
+footer{
+    background-color: rgba(15, 84, 129, 0.76);
+    color:white;
+    padding: 10px;
+    text-align: center;
 }
